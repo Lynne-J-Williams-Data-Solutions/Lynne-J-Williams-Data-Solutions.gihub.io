@@ -1,1 +1,0 @@
-# Lynne-J-Williams-Data-Solutions.gihub.io
