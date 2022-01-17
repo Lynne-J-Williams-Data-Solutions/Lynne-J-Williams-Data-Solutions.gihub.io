@@ -304,7 +304,7 @@ h1, h2, h3, h4, h5, h6 {
 --------------------------------------------------------------*/
 #hero {
   width: 100%;
-  height: 135vh;
+  height: 32rem;
   background: url("../img/AdobeStock_103435603.jpeg") top right;
   background-size: cover;
   position: relative;
